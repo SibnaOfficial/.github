@@ -1,0 +1,2 @@
+# .github
+Sibna for all
