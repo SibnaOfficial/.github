@@ -1,26 +1,67 @@
 # Sibna
 
-A software organization dedicated to developing secure communication protocols and privacy-centric systems. Our mission is to build independent, decentralized solutions that grant users full control over their data without reliance on costly infrastructure or third-party service providers.
+Sibna is an independent technology organization focused on building modern digital systems with an emphasis on privacy, security, performance, and long-term sustainability.
 
-## Technical Vision
+Our mission is to develop software, infrastructure, and digital experiences that empower individuals and organizations through thoughtful engineering and user-centered design. We believe technology should remain transparent, accessible, and respectful of user ownership.
 
-Our projects focus on merging high-performance engineering with rigorous security standards through:
+## Vision
 
-* **Structural Security:** Implementation of End-to-End Encryption (E2EE) using modern primitives like Ed25519 and X3DH.
-* **System Autonomy:** Developing authentication frameworks that bypass traditional constraints (such as SMS OTP) in favor of hardware-bound keys and biometric signatures.
-* **Modern Stack:** Leveraging Rust for performance-critical backend logic and Flutter for seamless, secure cross-platform experiences.
+We envision a future where digital products are designed around people rather than platforms.
 
-## Current Projects
+Our goal is to create technologies that are secure by default, intuitive to use, and capable of evolving alongside the needs of a rapidly changing digital world.
 
-Our repository ecosystem is built around several core components:
+Rather than limiting ourselves to a single category of software, Sibna is built as a long-term organization capable of exploring and developing solutions across multiple domains, adapting to new challenges and opportunities as technology evolves.
 
-* **sibna-protc:** The underlying encryption engine. This protocol serves as the foundation for all our secure messaging and data transfer implementations.
-* **Independent Authentication:** Research and development of zero-cost login systems that prioritize security and eliminate external service dependencies.
+## Principles
 
-## Under Development
+### Privacy First
+Privacy is treated as a fundamental requirement, not an optional feature.
 
-Beyond our public repositories, we are actively developing a broader suite of privacy tools. This includes advanced messaging applications with features like encrypted local storage and anti-screenshot measures, as well as secure backup solutions. These projects will be moved to public status as they reach stability milestones.
+### Security by Design
+Security considerations are integrated into every stage of development rather than added as an afterthought.
 
-## Contribution
+### Simplicity & Clarity
+We value clean architecture, maintainable systems, and user experiences that remain intuitive without sacrificing capability.
 
-We value technical feedback and security audits from the developer community. We believe in continuous evolution and are committed to expanding our toolkit with new software that meets the demands of a privacy-conscious digital age.
+### Independence
+We strive to reduce unnecessary dependencies and promote technologies that give users greater control over their digital environment.
+
+### Continuous Innovation
+Technology never stands still, and neither do we. We are committed to research, experimentation, and the pursuit of better solutions.
+
+## Design Philosophy
+
+At Sibna, design is more than appearance.
+
+We believe great products emerge from the combination of engineering excellence, thoughtful user experience, and clear visual identity.
+
+Every interface, interaction, and system component should feel purposeful, accessible, and consistent.
+
+## Technology
+
+Our projects leverage modern technologies and development practices, with a strong focus on:
+
+- Performance
+- Reliability
+- Scalability
+- Security
+- Cross-platform experiences
+- Developer-friendly architectures
+
+Technology choices may evolve over time as we continue to evaluate and adopt the most effective tools for each challenge.
+
+## Open Development
+
+We value transparency and welcome constructive feedback from developers, researchers, designers, and security professionals.
+
+Many of our initiatives will be shared publicly as they mature, allowing the community to review, contribute, and help improve the technologies we build.
+
+## Looking Forward
+
+Sibna is not defined by a single product.
+
+It is a long-term commitment to building meaningful technology, exploring new ideas, and creating software that remains useful, trustworthy, and relevant for years to come.
+
+---
+
+**Building technology with purpose.**
